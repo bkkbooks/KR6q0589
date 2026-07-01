@@ -1,0 +1,145 @@
+canonical_identifier: bkk:krp/KR6q0589/v1
+canonical_location: https://kanripo.org/bkk/KR6q0589/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 天翼翔禪師語錄
+  identifiers:
+    alt_id:
+    - J40nB477
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/J/J40/J40nB477.xml
+    old_id: J40nB477
+  edition:
+    short: bkk
+editions:
+- short: 嘉興
+  label: 嘉興
+  source_xml_id: wit.orig
+- short: J
+assets:
+  parts:
+  - {seq: 0, filename: KR6q0589_000.yaml, hash: 'sha256:54988c23fac9b087ac249446568209c4c0754c8c9c68f5bd9b0dfd2469060f4c'}
+  - {seq: 1, filename: KR6q0589_001.yaml, hash: 'sha256:3408bad1549eced9802e8e88e90f76ba274b5d54103e4cc4b332beb7e3dd9bbf'}
+  - {seq: 2, filename: KR6q0589_002.yaml, hash: 'sha256:5d1ecedbfc6d9560cf3b3c5597561be4fc2684d757935595b2b8145f252c315d'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6q0589_000.markers.yaml, hash: 'sha256:4736c9dc156e3ac242998ecff5832b334ca4f5432c05545502f84c6a3f4a8566'}
+  - {seq: 1, role: markers, filename: assets/KR6q0589_001.markers.yaml, hash: 'sha256:c6e95c94a839a864d6f868fd5f438d96776ee2698ba59d2e01198065bff7d45b'}
+  - {seq: 2, role: markers, filename: assets/KR6q0589_002.markers.yaml, hash: 'sha256:fd64da5b86a4baa8a34b142280a1e156f38c274f84e03a184085512ad59498ce'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6q0589_J_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: 序
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6q0589_J_000-mulu-2
+    span:
+    - front
+    - 0
+    - 0
+  label: 羅人琮敘
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6q0589_J_000-mulu-3
+    span:
+    - front
+    - 449
+    - 449
+  label: 陶之典序
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0589_J_001-juan-start
+    span:
+    - body
+    - 0
+    - 7675
+  label: 天翼翔禪師語錄卷上
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0589_J_001-mulu-1
+    span:
+    - body
+    - 17
+    - 17
+  label: 住潭州大溈山密印禪寺語錄
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0589_J_002-juan-start
+    span:
+    - body
+    - 0
+    - 8400
+  label: 天翼翔禪師語錄卷下
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0589_J_002-mulu-1
+    span:
+    - body
+    - 17
+    - 17
+  label: 住潭州芙蓉山廣化寺語錄
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0589_J_002-mulu-2
+    span:
+    - body
+    - 1483
+    - 1483
+  label: 機緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0589_J_002-mulu-3
+    span:
+    - body
+    - 2991
+    - 2991
+  label: 舉古
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0589_J_002-mulu-4
+    span:
+    - body
+    - 5119
+    - 5119
+  label: 頌古
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0589_J_002-mulu-5
+    span:
+    - body
+    - 7092
+    - 7092
+  label: 行實
+  type: mulu
+  level: 1
+hash: sha256:2db5776e1c2b7f0815b3b79c781ff847718dc6361bf17c4d533e4c360a91cbdf
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
