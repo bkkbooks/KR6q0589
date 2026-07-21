@@ -21,11 +21,11 @@ editions:
 - short: J
 assets:
   parts:
-  - {seq: 0, filename: KR6q0589_000.yaml, hash: 'sha256:12882df9940a5e499b78493db6615ffeaafa364f2a91764abbc5639cc28c99c3'}
+  - {seq: 0, filename: KR6q0589_000.yaml, hash: 'sha256:fb69e225c4bb85f7039935107bb85d30c5fb597715a6de875cc495116b6e5b3e'}
   - {seq: 1, filename: KR6q0589_001.yaml, hash: 'sha256:ecb72dd409facb8f0255977307d15e90fe3feb26ef82f4ae4f5b46697ff15c93'}
   - {seq: 2, filename: KR6q0589_002.yaml, hash: 'sha256:7619560356c54bde22c6942ec746a8b819058a119edc6c0e137c9ba8080eaf80'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6q0589_000.markers.yaml, hash: 'sha256:26a885cc9a89df6d6fffa2a702240c6ce75e78c7c87bf7072bf3ef6ba6814d08'}
+  - {seq: 0, role: markers, filename: assets/KR6q0589_000.markers.yaml, hash: 'sha256:295692775337d388a0ac250e597f9f90a4afd3c1b8b6ca8c9e4acc9b6205e5f6'}
   - {seq: 1, role: markers, filename: assets/KR6q0589_001.markers.yaml, hash: 'sha256:e3a5b6fd4254d0a6e5b31d162bad91ca89baa22964f9e8ab544d3cd117bcb95e'}
   - {seq: 2, role: markers, filename: assets/KR6q0589_002.markers.yaml, hash: 'sha256:e86da4812a44b820798b7c387cc3e313b0ce57a28e2ce93f95f97975d28fedf5'}
 table_of_contents:
@@ -33,7 +33,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0589_J_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 序
@@ -43,7 +43,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0589_J_000-mulu-2
     span:
-    - front
+    - body
     - 0
     - 0
   label: 羅人琮敘
@@ -53,7 +53,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0589_J_000-mulu-3
     span:
-    - front
+    - body
     - 449
     - 449
   label: 陶之典序
@@ -139,7 +139,7 @@ table_of_contents:
   label: 行實
   type: mulu
   level: 1
-hash: sha256:e9056e552f1da17fa5fc44994c9428d6117b1e800b5bf6f9b283c9ba306f74ee
+hash: sha256:47236bda614846e3cb9a84273dcee761055a464c1a58b1cb3a762a99cc397533
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
